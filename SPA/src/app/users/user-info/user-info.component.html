@@ -1,0 +1,28 @@
+<div class="container-fluid page">
+    <div class="glob p-5">User details</div>
+</div>
+
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Email</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+
+            </tr>
+        </thead>
+        <tbody> 
+            <tr *ngIf="user">
+                <td>{{user.id}}</td>
+                <td>{{user.email}}</td>
+                <td>{{user.first_name}}</td>
+                <td>{{user.last_name}}</td>
+
+
+            </tr>
+        </tbody>
+    </table>
+    <button (click)="goToUsers()">Back</button>
+</div>

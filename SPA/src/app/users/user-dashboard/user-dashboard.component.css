@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+.pag{
+    font-size: 1.8em;
+    text-align: center;
+    font-style: inherit;
+    align-items: center;
+    font-weight: bold;
+    color: #130d4d;
+    background: #f1f5f9;
+
+}
+
+.page{
+padding-right: 0;
+padding-left: 0;
+}
+
+.container{
+    margin-top: 5%;
+    margin-left: 0.8%;
+    font-size: large;
+
+}
+
+button{
+    border-radius:8px;
+    background-color: #3c9aff;
+    color: rgb(0, 0, 0);
+
+}
