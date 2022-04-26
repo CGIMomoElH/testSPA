@@ -1,5 +1,5 @@
-## Soumission Test SPA Via Rail
-Voici mon SPA pour le test de Via Rail. 
+## Soumission Test SPA
+Voici mon SPA pour le test 
 Veuillez pardonner le fait qu'il y a un dossier dans le repo.
 J'ai laissé ainsi pour m'assurer de remettre dans les temps.
 
